@@ -10,4 +10,4 @@ Features:
 - Smooth caret
 - Different text cursors
 
-This is currently V2 and has a few bugs.
+This is currently V3 and has a few bugs.
